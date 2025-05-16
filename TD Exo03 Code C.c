@@ -1,5 +1,5 @@
 //Permutation des valeurs de trois variables a, b et c
-/*Algorithme TD 01 Exo03: permutatin des valeurs de a, b et c
+/*Algorithme TD 01 Exo03: permutaton des valeurs de a, b et c
 
 Variables: a, b, c : reels
 Début
